@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working at @Evbotic Tech 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for enthusiatic Developers to colab.
 - 📫 How to reach me: iresearchai@gmail.com.
 - 😄 Pronouns: IResearchAI, iShivashish_Borah
 - ⚡ Fun fact: I play games and go to the GYM very often.
