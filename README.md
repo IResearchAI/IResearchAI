@@ -1,12 +1,10 @@
+## Hi I'm Shivashish @IResearchAI <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Shivashish Borah. AI Researcher | Mechanical Engineer | Python Developer | Penetration Tester | National TT Player | Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCzyWA0wn9HbD75RgwjIJb_w). I Spend most of time coding outstanding projects .
 <!---
 IResearchAI/IResearchAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-..
-## Hi I'm Shivashish @IResearchAI <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Shivashish Borah. AI Researcher | Mechanical Engineer | Python Developer | Penetration Tester | National TT Player | Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCzyWA0wn9HbD75RgwjIJb_w). I Spend most of time coding outstanding projects .
-
 :mailbox: Reach me out!
 
 <!-- TODO: Add last video link -->
